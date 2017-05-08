@@ -12,7 +12,7 @@
 * [二、卡片模型学习特辑](chapter02/README.md)
    * [唐诺德·诺曼：1 个茶壶告诉你什么是好设计](chapter02/note01.md)
    * [史蒂芬·平克：小孩生来就像一张白纸吗？](chapter02/note02.md)
-   * [微软副总裁：多数人忽视但重要的科学概念：迁移学习 ](chapter02/note03.md)
+   * [微软全球副总裁 Peter Lee：多数人忽视但重要的科学概念：迁移学习](chapter02/note03.md)
    * [Darius Foroux：提高创意思维的 4 个技巧](chapter02/note04.md)
    * [Facebook产品设计副总裁 Julie Zhuo：让你自己停留在认知焦虑区](chapter02/note05.md)
    * [诺贝尔奖得主卡尼曼：为何人类普遍对快乐存在认知偏差 ](chapter02/note06.md)
